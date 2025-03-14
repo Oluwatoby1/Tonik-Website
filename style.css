@@ -1,10 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+
+@font-face {
+    font-family: "Cabinet Grotesk";
+    src: url("./Fonts/CabinetGrotesk-Bold.otf") format("otf"),
+         url("/Fonts/CabinetGrotesk-Regular.otf") format("otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
 *{
     margin: 0;
     box-sizing: border-box;
     padding: 0;
-    font-family: "Inter", "Darker Grotesque" "san-serif";
+    font-family: "Inter", "Darker Grotesque" "Cabinet Grotesk" "san-serif";
     letter-spacing: -0.031rem;
 }
 
@@ -43,7 +52,7 @@
     height: auto;
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
     column-gap: 2rem;
     padding: 1rem 2.5rem;
