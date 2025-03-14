@@ -1343,7 +1343,9 @@ letter-spacing: -0.02rem;
     align-items: center;
     column-gap: 1.5rem;
 } */
-    
+.hero-image{
+    width: 100%;
+}
 .hero-image img{
         width: 25.3125rem;
         height: auto;
