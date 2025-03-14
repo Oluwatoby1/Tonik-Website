@@ -2078,7 +2078,9 @@ letter-spacing: -0.02rem;
     }
  
 
-
+    .hero-image{
+        width: 100%;
+    }
         
         .hero-image img{
             width: 25.3125rem;
