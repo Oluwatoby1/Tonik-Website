@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: "Cabinet Grotesk";
-    src: url("./Fonts/CabinetGrotesk-Bold.otf") format("otf"),
-         url("/Fonts/CabinetGrotesk-Regular.otf") format("otf");
+    src: url("./fonts/CabinetGrotesk-Bold.otf") format(".otf"),
+         url("/fonts/CabinetGrotesk-Regular.otf") format(".otf");
     font-weight: normal;
     font-style: normal;
 }
