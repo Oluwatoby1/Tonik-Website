@@ -31,7 +31,7 @@
 .main-body{
     width: 100%;
     height: auto;
-    padding: 4rem 6rem;
+    padding: 4rem 4rem;
     display: flex;
     flex-direction: column;
     row-gap: 3rem;
@@ -51,12 +51,16 @@
 
 }
 
+
 .navbar a{
     text-decoration: none;
     color: #101928;
     font-size: 1rem;
     font-weight: 500;
     font-family: "inter";
+}
+.download-button{
+    display: none;
 }
 
 .primary-buton{
@@ -133,7 +137,7 @@
 
 
 .hero-text-ctas{
-    width: 60%;
+    width: 70%;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -194,6 +198,9 @@ letter-spacing: -0.033rem;
     align-items: center;
     column-gap: 1.5rem;
 } 
+.hero-image{
+    width: 40%;
+}
 
 .section-1{
     width: 100%;
