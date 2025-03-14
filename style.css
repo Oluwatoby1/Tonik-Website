@@ -15,7 +15,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 5rem;
+    padding: 1rem 6rem;
     position: fixed;
     background-color: #FFF;
     top: 0;
@@ -31,7 +31,7 @@
 .main-body{
     width: 100%;
     height: auto;
-    padding: 4rem 5rem;
+    padding: 4rem 6rem;
     display: flex;
     flex-direction: column;
     row-gap: 3rem;
