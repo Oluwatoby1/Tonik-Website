@@ -3,17 +3,19 @@
 
 @font-face {
     font-family: "Cabinet Grotesk";
-    src: url("./fonts/CabinetGrotesk-Bold.otf");
+    src: url("/fonts/CabinetGrotesk-Bold.woff2") format("woff2");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Cabinet Grotesk";
-    src: url("./fonts/CabinetGrotesk-Regular.otf");
+    src: url("/fonts/CabinetGrotesk-Medium.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
+
+
 
 *{
     margin: 0;
