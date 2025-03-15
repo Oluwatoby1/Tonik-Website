@@ -1,29 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 
-@font-face {
-    font-family: "Cabinet Grotesk";
-    src: url("/fonts/CabinetGrotesk-Bold.woff2") format("woff2");
-    font-weight: 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Cabinet Grotesk";
-    src: url("/fonts/CabinetGrotesk-Extrabold.woff2") format("woff2");
-    font-weight: 800;
-    font-style: normal;
-}
-@font-face {
-    font-family: "Cabinet Grotesk";
-    src: url("/fonts/CabinetGrotesk-Medium.woff2") format("woff2");
-    font-weight: 500;
-    font-style: normal;
-}
-
-
-
-
 
 *{
     margin: 0;
