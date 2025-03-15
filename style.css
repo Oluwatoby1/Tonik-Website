@@ -102,7 +102,7 @@
     margin: 0;
     box-sizing: border-box;
     padding: 0;
-    font-family: "Inter","CabinetGrotesk-Variable", "san-serif";
+    /* font-family: "Inter","CabinetGrotesk-Variable", "san-serif"; */
     letter-spacing: -0.031rem;
 }
 
