@@ -338,7 +338,11 @@ letter-spacing: -0.033rem;
 }
 .love-text-caption h2{
 color:  #785AFF;
-font-family: "Cabinet Grotesk";
+/* font-family: "Cabinet Grotesk"; */
+font-family: 'CabinetGrotesk-Bold';
+
+
+
 font-size: 3.5rem;
 font-style: normal;
 font-weight: 700;
@@ -444,7 +448,8 @@ cursor: pointer;
 
 .build-credit-text h1, .heading-two{
     color: #785AFF;
-font-family: "Cabinet Grotesk";
+/* font-family: "Cabinet Grotesk"; */
+font-family: 'CabinetGrotesk-Bold';
 font-size: 3.25rem;
 font-style: normal;
 font-weight: 700;
@@ -477,7 +482,7 @@ letter-spacing: -0.0325rem;
     width: fit-content;
 color: #001633;
 text-align: center;
-font-family: "Cabinet Grotesk";
+font-family: "CabinetGrotesk-bold";
 font-size: 3rem;
 font-style: normal;
 font-weight: 700;
@@ -758,7 +763,7 @@ border-radius: 2rem;
 }
 
 .heading-three{
-font-family: "Cabinet Grotesk";
+font-family: "CabinetGrotesk-Medium";
 font-size: 1.75rem;
 font-style: normal;
 font-weight: 500;
@@ -1159,7 +1164,7 @@ gap: 0.75rem;
 .logo h1{
     /* color: #FFF; */
     text-align: center;
-    font-family: "Cabinet Grotesk";
+    font-family: "CabinetGrotesk-Extrabold";
     font-size: 4rem;
     font-style: normal;
     font-weight: 800;
@@ -1413,7 +1418,7 @@ letter-spacing: -0.015rem;
     row-gap: 2rem;
 }
 .hero-text h1{
-    font-family: "Cabinet Grotesk";
+    font-family: "CabinetGrotesk-Bold";
 font-size: 3rem;
 font-style: normal;
 font-weight: 700;
@@ -1487,7 +1492,7 @@ letter-spacing: -0.02rem;
     .love-text-caption h2, .heading-two{
         width: fit-content;
         color: #785AFF;
-        font-family: "Cabinet Grotesk";
+        font-family: "CabinetGrotesk-Bold";
         font-size: 2.25rem;
         font-style: normal;
         font-weight: 700;
@@ -1639,7 +1644,7 @@ letter-spacing: -0.02rem;
     .section-3-partners h1{
         color: var(--Secondary-900, #001633);
         text-align: center;
-        font-family: "Cabinet Grotesk";
+        font-family: 'CabinetGrotesk-Bold';
         font-size:1.75rem;
         font-style: normal;
         font-weight: 700;
@@ -1804,7 +1809,7 @@ letter-spacing: -0.02rem;
     .heading-two{
         width: fit-content;
         color: #785AFF;
-        font-family: "Cabinet Grotesk";
+        font-family: "CabinetGrotesk-Bold";
         font-size: 2rem;
         font-style: normal;
         font-weight: 700;
@@ -2153,7 +2158,7 @@ letter-spacing: -0.02rem;
         padding-top: 3rem;
     }
     .hero-text h1{
-        font-family: "Cabinet Grotesk";
+        font-family: "CabinetGrotesk-Bold";
     font-size: 2.5rem;
     font-style: normal;
     font-weight: 700;
@@ -2231,7 +2236,7 @@ letter-spacing: -0.02rem;
         .love-text-caption h2, .heading-two{
             width: fit-content;
             color: #785AFF;
-            font-family: "Cabinet Grotesk";
+            font-family: "CabinetGrotesk-Bold";
             font-size: 2.25rem;
             font-style: normal;
             font-weight: 700;
@@ -2384,7 +2389,7 @@ letter-spacing: -0.02rem;
         .section-3-partners h1{
             color: var(--Secondary-900, #001633);
             text-align: center;
-            font-family: "Cabinet Grotesk";
+            font-family: "CabinetGrotesk-Bold";
             font-size:1.75rem;
             font-style: normal;
             font-weight: 700;
@@ -2542,7 +2547,7 @@ letter-spacing: -0.02rem;
         .heading-two{
             width: fit-content;
             color: #785AFF;
-            font-family: "Cabinet Grotesk";
+            font-family: "CabinetGrotesk-Bold";
             font-size: 1.5rem;
             font-style: normal;
             font-weight: 700;
